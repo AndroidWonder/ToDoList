@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save.png",
+        "source": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\update.png",
+        "source": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\src\\main\\res\\drawable\\update.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\James\\AndroidStudioHomeworkSolutions\\ToDoList\\app\\src\\main\\res\\drawable\\icon.png"
+    }
+]
