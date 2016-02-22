@@ -3,11 +3,13 @@ package com.homework;
 import java.util.ArrayList;
 import java.util.Date;
 import java.io.*;
-import android.app.ListActivity;
+
+import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.AdapterView;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -20,10 +22,11 @@ import android.speech.tts.TextToSpeech.OnInitListener;
 import java.util.Locale;
 
 
-public class ToDoList extends ListActivity implements OnInitListener{
+public class ToDoList extends Activity implements OnInitListener,
+		             AdapterView.OnItemClickListener{
 	
 	private EditText text;
-	private ListView list;
+	private ListView listview;
 	//private TextView tview;
 	private String fileName = "list.txt";
 	private TextToSpeech speaker;
@@ -39,8 +42,11 @@ public class ToDoList extends ListActivity implements OnInitListener{
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        
-        text = (EditText)findViewById(R.id.EditText01);       
+
+		listview = (ListView)findViewById(R.id.list);
+		listview.setOnItemClickListener(this);
+
+		text = (EditText)findViewById(R.id.EditText01);
         text.setHint("Enter Text Here ...");
         
       //Initialize Text to Speech engine (context, listener object)
@@ -48,10 +54,11 @@ public class ToDoList extends ListActivity implements OnInitListener{
         
         arrOptions = new ArrayList<String>();
         adaOptions = new ArrayAdapter<String>(this, R.layout.main1, arrOptions);
-        
-        setListAdapter(adaOptions);
-     
-        //check if the list is to be initialized from last session
+
+		listview.setAdapter(adaOptions);
+
+
+		//check if the list is to be initialized from last session
         String path = getFilesDir().toString();
         if (new File(path + "/" + fileName).exists()) {      	
         readFile();
@@ -155,9 +162,7 @@ public class ToDoList extends ListActivity implements OnInitListener{
     }
     
     //display list item clicked
-    @Override
-    public void onListItemClick(ListView l, View v, int position, long id) {
-    	super.onListItemClick(l, v, position, id);
+	public void onItemClick(AdapterView<?> parent, View v, int position, long id) {
     	String str = arrOptions.get(position);
     	int index = str.indexOf(".");  //get rid of item number
     	str = str.substring(index+2);
