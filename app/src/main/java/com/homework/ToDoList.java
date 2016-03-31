@@ -117,6 +117,8 @@ public class ToDoList extends Activity implements OnInitListener,
     	case R.id.close:  {  //exit
     		saveFile();
     		finish();
+			//needed because finish doesn't happen immediately do the add option may be executed
+			break;
     		}
     	case R.id.add: {  //add new list item
     		String str = text.getText().toString();
@@ -157,8 +159,9 @@ public class ToDoList extends Activity implements OnInitListener,
     		return true;
     	}
     	
-    	default: {return false;}	
+    	default: return false;
     	}
+		return true;
     }
     
     //display list item clicked
@@ -194,8 +197,9 @@ public class ToDoList extends Activity implements OnInitListener,
 			while ((str = reader.readLine()) != null) {
 				numItems++;
 	    		arrOptions.add(str);
-	    		adaOptions.notifyDataSetChanged();
+	    	//	adaOptions.notifyDataSetChanged();
 			}
+			adaOptions.notifyDataSetChanged();
 			reader.close();
 		} catch(IOException e) {Toast.makeText(this, "List Initialized", Toast.LENGTH_LONG).show(); }
     }
