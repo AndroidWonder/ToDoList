@@ -197,7 +197,6 @@ public class ToDoList extends Activity implements OnInitListener,
 			while ((str = reader.readLine()) != null) {
 				numItems++;
 	    		arrOptions.add(str);
-	    	//	adaOptions.notifyDataSetChanged();
 			}
 			adaOptions.notifyDataSetChanged();
 			reader.close();
