@@ -1,0 +1,8 @@
+com.homework.app-pngs-0 C:\Users\Jim\StudioProjects\ToDoList\app\build\generated\res\pngs\debug
+com.homework.app-resValues-1 C:\Users\Jim\StudioProjects\ToDoList\app\build\generated\res\resValues\debug
+com.homework.app-rs-2 C:\Users\Jim\StudioProjects\ToDoList\app\build\generated\res\rs\debug
+com.homework.app-mergeDebugResources-3 C:\Users\Jim\StudioProjects\ToDoList\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.homework.app-mergeDebugResources-4 C:\Users\Jim\StudioProjects\ToDoList\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.homework.app-merged_res-5 C:\Users\Jim\StudioProjects\ToDoList\app\build\intermediates\merged_res\debug
+com.homework.app-debug-6 C:\Users\Jim\StudioProjects\ToDoList\app\src\debug\res
+com.homework.app-main-7 C:\Users\Jim\StudioProjects\ToDoList\app\src\main\res

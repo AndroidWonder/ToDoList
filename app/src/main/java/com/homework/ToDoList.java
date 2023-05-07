@@ -22,7 +22,7 @@ import android.speech.tts.TextToSpeech.OnInitListener;
 import java.util.Locale;
 
 
-public class ToDoList extends Activity implements OnInitListener,
+public class  ToDoList extends Activity implements OnInitListener,
 		             AdapterView.OnItemClickListener{
 	
 	private EditText text;

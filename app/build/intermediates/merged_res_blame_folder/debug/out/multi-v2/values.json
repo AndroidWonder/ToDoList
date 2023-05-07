@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.homework.app-mergeDebugResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jim\\StudioProjects\\ToDoList\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,57",
+                        "endColumns": "45,43",
+                        "endOffsets": "143,96"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,43",
+                        "endOffsets": "96,140"
+                    }
+                }
+            ]
+        }
+    ]
+}
