@@ -1,38 +1,42 @@
 [
     {
-        "merged": "com.homework.app-merged_res-5:/layout_main.xml.flat",
-        "source": "com.homework.app-main-7:/layout/main.xml"
+        "merged": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-merged_res-5:\\drawable_update.png.flat",
+        "source": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-main-7:\\drawable\\update.png"
     },
     {
-        "merged": "com.homework.app-merged_res-5:/drawable_delete.png.flat",
-        "source": "com.homework.app-main-7:/drawable/delete.png"
+        "merged": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-merged_res-5:\\layout_main.xml.flat",
+        "source": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-main-7:\\layout\\main.xml"
     },
     {
-        "merged": "com.homework.app-merged_res-5:/drawable_update.png.flat",
-        "source": "com.homework.app-main-7:/drawable/update.png"
+        "merged": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-merged_res-5:\\drawable_delete.png.flat",
+        "source": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-main-7:\\drawable\\delete.png"
     },
     {
-        "merged": "com.homework.app-merged_res-5:/drawable_icon.png.flat",
-        "source": "com.homework.app-main-7:/drawable/icon.png"
-    },
-    {
-        "merged": "com.homework.app-merged_res-5:/drawable_add.png.flat",
-        "source": "com.homework.app-main-7:/drawable/add.png"
-    },
-    {
-        "merged": "com.homework.app-merged_res-5:/drawable_close.png.flat",
-        "source": "com.homework.app-main-7:/drawable/close.png"
+        "merged": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-merged_res-5:\\drawable_save.png.flat",
+        "source": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-main-7:\\drawable\\save.png"
     },
     {
         "merged": "com.homework.app-merged_res-5:/layout_main1.xml.flat",
         "source": "com.homework.app-main-7:/layout/main1.xml"
     },
     {
-        "merged": "com.homework.app-merged_res-5:/drawable_save.png.flat",
-        "source": "com.homework.app-main-7:/drawable/save.png"
+        "merged": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-merged_res-5:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-main-7:\\drawable\\icon.png"
     },
     {
-        "merged": "com.homework.app-merged_res-5:/menu_main.xml.flat",
-        "source": "com.homework.app-main-7:/menu/main.xml"
+        "merged": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-merged_res-5:\\drawable_add.png.flat",
+        "source": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-main-7:\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-merged_res-5:\\menu_main.xml.flat",
+        "source": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-main-7:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-merged_res-5:\\drawable_close.png.flat",
+        "source": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-main-7:\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-merged_res-5:\\layout_main1.xml.flat",
+        "source": "C:\\Users\\Jim\\.gradle\\daemon\\7.5\\com.homework.app-main-7:\\layout\\main1.xml"
     }
 ]

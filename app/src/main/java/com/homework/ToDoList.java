@@ -53,7 +53,9 @@ public class  ToDoList extends Activity implements OnInitListener,
         speaker = new TextToSpeech(this, this);
         
         arrOptions = new ArrayList<String>();
-        adaOptions = new ArrayAdapter<String>(this, R.layout.main1, arrOptions);
+	//	adaOptions = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, arrOptions);
+
+		adaOptions = new ArrayAdapter<String>(this, R.layout.main1, arrOptions);
 
 		listview.setAdapter(adaOptions);
 

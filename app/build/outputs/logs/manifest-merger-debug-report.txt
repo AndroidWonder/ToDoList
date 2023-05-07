@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-18:12
-INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-18:12
-INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-18:12
-INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-18:12
-INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-18:12
-INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-18:12
-INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-18:12
+ADDED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:2:1-17:12
 	package
 		ADDED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:3:7-29
 		INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
@@ -46,16 +46,16 @@ ADDED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
 	android:name
 		ADDED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:11:27-74
 uses-sdk
-ADDED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:16:5-44
-INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:16:5-44
-INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:16:5-44
-INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:16:5-44
-INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:16:5-44
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
 		INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:16:5-44
+		ADDED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml:16:15-41
 		INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Jim\StudioProjects\ToDoList\app\src\main\AndroidManifest.xml
